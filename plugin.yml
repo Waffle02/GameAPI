@@ -1,0 +1,11 @@
+name: GameAPI
+main: me.waffle.gameapi.GameAPI
+version: 1.0
+commands:
+  addspawn:
+  setlobby:
+  join:
+  create:
+permissions:
+  gameapi.setup:
+    description: default.
